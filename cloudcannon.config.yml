@@ -6,3 +6,7 @@ markdown:
   engine: commonmark
   options: {}
 source: /
+collections_config:
+  animated_design:
+    path: animated/design
+    icon: animated_images
