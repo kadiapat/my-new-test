@@ -1,6 +1,6 @@
 collections_config:
   animated:
-    path: /design
+    path: animated/design
     icon: camera
     url: /[slug]
     disable_url: false
@@ -14,4 +14,4 @@ timezone: Etc/UTC
 static_site_generator: none
 build:
   command: echo "Serving static files directly"
-output_path: /design
+output_path: animated
