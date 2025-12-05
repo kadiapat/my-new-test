@@ -1,5 +1,5 @@
 collections_config:
-  commercial:
+  animated:
     path: animated/design
     icon: camera
     url: /[slug]
